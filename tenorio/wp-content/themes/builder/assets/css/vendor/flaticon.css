@@ -1,0 +1,136 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../../fonts/flaticon/flaticon.eot");
+	src: url("../../fonts/flaticon/flaticon.eot#ief") format("embedded-opentype"),
+	url("../../fonts/flaticon/flaticon.woff") format("woff"),
+	url("../../fonts/flaticon/flaticon.ttf") format("truetype"),
+	url("../../fonts/flaticon/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+  font-size: 20px;
+	font-style: normal;
+/*margin-left: 20px;*/
+}.flaticon-architecture1:before {
+	content: "\e000";
+}
+.flaticon-attention1:before {
+	content: "\e001";
+}
+.flaticon-barrow:before {
+	content: "\e002";
+}
+.flaticon-builder:before {
+	content: "\e003";
+}
+.flaticon-building33:before {
+	content: "\e004";
+}
+.flaticon-buildings16:before {
+	content: "\e005";
+}
+.flaticon-city21:before {
+	content: "\e006";
+}
+.flaticon-concrete:before {
+	content: "\e007";
+}
+.flaticon-construction1:before {
+	content: "\e008";
+}
+.flaticon-construction10:before {
+	content: "\e009";
+}
+.flaticon-construction11:before {
+	content: "\e00a";
+}
+.flaticon-construction14:before {
+	content: "\e00b";
+}
+.flaticon-construction15:before {
+	content: "\e00c";
+}
+.flaticon-construction17:before {
+	content: "\e00d";
+}
+.flaticon-constructor2:before {
+	content: "\e00e";
+}
+.flaticon-crane19:before {
+	content: "\e00f";
+}
+.flaticon-crane20:before {
+	content: "\e010";
+}
+.flaticon-crane8:before {
+	content: "\e011";
+}
+.flaticon-crane9:before {
+	content: "\e012";
+}
+.flaticon-drill5:before {
+	content: "\e013";
+}
+.flaticon-hammer26:before {
+	content: "\e014";
+}
+.flaticon-hand209:before {
+	content: "\e015";
+}
+.flaticon-house112:before {
+	content: "\e016";
+}
+.flaticon-male108:before {
+	content: "\e017";
+}
+.flaticon-paint:before {
+	content: "\e018";
+}
+.flaticon-pipes1:before {
+	content: "\e019";
+}
+.flaticon-plumber3:before {
+	content: "\e01a";
+}
+.flaticon-running16:before {
+	content: "\e01b";
+}
+.flaticon-shovel23:before {
+	content: "\e01c";
+}
+.flaticon-spanner9:before {
+	content: "\e01d";
+}
+.flaticon-tool1008:before {
+	content: "\e01e";
+}
+.flaticon-tool1129:before {
+	content: "\e01f";
+}
+.flaticon-tool1185:before {
+	content: "\e020";
+}
+.flaticon-tool134:before {
+	content: "\e021";
+}
+.flaticon-tool167:before {
+	content: "\e022";
+}
+.flaticon-tool988:before {
+	content: "\e023";
+}
+.flaticon-triangular46:before {
+	content: "\e024";
+}
+.flaticon-truck29:before {
+	content: "\e025";
+}
+.flaticon-work40:before {
+	content: "\e026";
+}
+.flaticon-working1:before {
+	content: "\e027";
+}

@@ -1,0 +1,73 @@
+/*colors*/
+/*grid float point*/
+/*font-family*/
+/*main-menu*/
+/*blogposts*/
+/*widgets*/
+/*footer*/
+@media screen and (max-width: 767px) {
+  .zindex-top {
+    margin-top: 0;
+  }
+  .portfolio-nav li {
+    padding: 4px 6px;
+    margin: 5px 5px 5px 0;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .xs-mb-30 {
+    margin-bottom: 30px;
+  }
+  .pad80 {
+    padding: 40px 0 15px;
+  }
+  .promo-block {
+    margin-top: 0;
+  }
+  .service-grid-box {
+    padding: 0 15px;
+  }
+  .wpb_revslider_element.wpb_content_element {
+    margin-bottom: 0 !important;
+  }
+  .feature-number {
+    margin-bottom: 25px;
+  }
+  .count-box,
+  .team-wrap {
+    margin-bottom: 35px;
+  }
+  .project-nav ul li {
+    color: #313131;
+    margin: 5px 0 15px 0;
+    display: inline-block;
+    padding: 4px 8px;
+    cursor: pointer;
+  }
+  .project-addon .project-item.col-2, .project-addon .project-item.col-3, .project-addon .project-item.col-4 {
+    width: 100%;
+  }
+  .clients .vc_figure {
+    float: left;
+    width: 50%;
+  }
+  .page-head {
+    padding: 40px 0;
+    text-align: center;
+  }
+  .page-head .breadcrumbs {
+    text-align: center;
+  }
+  .footer .col-xs-12 {
+    clear: both;
+    margin-bottom: 15px;
+  }
+  .comments-area ol {
+    margin-top: 5px;
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */

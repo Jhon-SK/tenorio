@@ -1,0 +1,17 @@
+/*
+Theme Name: Builder
+Theme URI: http://wp.ithemeslab.com/builder/
+Author: iThemesLab
+Author URI: http://ithemeslab.com
+Description: Builder is a construction business WordPress theme. Highly recommended for small and big firms providing Builder/ Carpenter/ Plumber/ Painter/ Handyman/ Cleaner services. The layout looks beautiful at any size, be it a laptop screen, iPad, iPhone, Android Mobile or tablets. Plus, anyone can update with his need.
+Version: 1.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: builder
+Tags: theme-options, post-formats, featured-images
+*/
+
+.gallery-caption,
+.bypostauthor {
+    display: block;
+}

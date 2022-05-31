@@ -1,0 +1,679 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Builder Core\n"
+"POT-Creation-Date: 2017-10-06 23:51+0600\n"
+"PO-Revision-Date: 2017-10-06 23:50+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: builder-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/cpt/project-cpt.php:5
+msgctxt "post type general name"
+msgid "Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:6
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:7
+msgctxt "admin menu"
+msgid "Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:8
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:9 inc/cpt/testimonial-cpt.php:10
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:10
+msgid "Add New Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:11
+msgid "New Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:12
+msgid "Edit Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:13
+msgid "View Project"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:14
+msgid "All Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:15
+msgid "Search Projects"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:16
+msgid "Parent Project:"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:17
+msgid "No project found."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:18
+msgid "No project found in Trash."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:23 inc/cpt/service-cpt.php:23
+#: inc/cpt/testimonial-cpt.php:24
+msgid "Description."
+msgstr ""
+
+#: inc/cpt/project-cpt.php:45
+msgctxt "taxonomy general name"
+msgid "Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:46
+msgctxt "taxonomy singular name"
+msgid "Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:47
+msgid "Search Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:48
+msgid "All Project Types"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:49
+msgid "Parent Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:50
+msgid "Parent Project Type:"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:51
+msgid "Edit Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:52
+msgid "Update Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:53
+msgid "Add New Project Type"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:54
+msgid "New Project Type Name"
+msgstr ""
+
+#: inc/cpt/project-cpt.php:55
+msgid "Project Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:5
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:6
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:7
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:8
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:9
+msgctxt "service"
+msgid "Add New Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:10
+msgid "Add New Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:11
+msgid "New Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:12
+msgid "Edit Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:13
+msgid "View Service"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:14
+msgid "All Services"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:15
+msgid "Search Services"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:16
+msgid "Parent Service:"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:17
+msgid "No service found."
+msgstr ""
+
+#: inc/cpt/service-cpt.php:18
+msgid "No service found in Trash."
+msgstr ""
+
+#: inc/cpt/service-cpt.php:45
+msgctxt "taxonomy general name"
+msgid "Service Types"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:46
+msgctxt "taxonomy singular name"
+msgid "Service Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:47
+msgid "Search Service Types"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:48
+msgid "All Service Types"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:49
+msgid "Parent Service Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:50
+msgid "Parent Service Type:"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:51
+msgid "Edit Service Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:52
+msgid "Update Service Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:53
+msgid "Add New Service Type"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:54
+msgid "New Service Type Name"
+msgstr ""
+
+#: inc/cpt/service-cpt.php:55 inc/vc-addons/service-grid.php:87
+msgid "Service Type"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:6
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:7
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:8
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:9
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:12
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:13
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:14
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:15
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:16
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:17
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:18
+msgid "No testimonial found."
+msgstr ""
+
+#: inc/cpt/testimonial-cpt.php:19
+msgid "No testimonial found in Trash."
+msgstr ""
+
+#: inc/metabox/banner-metabox.php:11
+msgid "Banner"
+msgstr ""
+
+#: inc/metabox/banner-metabox.php:19
+msgid "Banner Image"
+msgstr ""
+
+#: inc/metabox/testimonial-metabox.php:11
+msgid "Testimonial Metabox"
+msgstr ""
+
+#: inc/metabox/testimonial-metabox.php:19
+msgid "Dsignation"
+msgstr ""
+
+#: inc/metabox/testimonial-metabox.php:20
+msgid "Insert designation"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:29
+msgid "Animaed Counter"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:32 inc/vc-addons/buttons.php:24
+#: inc/vc-addons/feature-box.php:35 inc/vc-addons/feature-number.php:38
+#: inc/vc-addons/post-grid.php:72 inc/vc-addons/pricing-table.php:38
+#: inc/vc-addons/project.php:85 inc/vc-addons/section-title.php:26
+#: inc/vc-addons/service-grid.php:82 inc/vc-addons/team.php:49
+#: inc/vc-addons/testimonial.php:63
+msgid "Builder"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:37
+msgid "Counter Number"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:39
+msgid "Enter number here"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:44 inc/vc-addons/feature-box.php:40
+#: inc/vc-addons/feature-number.php:50 inc/vc-addons/section-title.php:31
+msgid "Title Text"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:46
+msgid "Enter your counter title here"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:54 inc/vc-addons/feature-box.php:57
+msgid "Icon Type"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:59 inc/vc-addons/feature-box.php:62
+msgid "Feature Icon"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:61 inc/vc-addons/feature-box.php:64
+#: inc/vc-addons/post-grid.php:124 inc/vc-addons/service-grid.php:142
+msgid "Some description"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:70 inc/vc-addons/feature-box.php:73
+msgid "Icon Name"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:72 inc/vc-addons/feature-box.php:42
+#: inc/vc-addons/feature-box.php:75 inc/vc-addons/feature-number.php:45
+#: inc/vc-addons/feature-number.php:52
+msgid "Enter your feature box title here"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:81 inc/vc-addons/buttons.php:71
+#: inc/vc-addons/feature-box.php:107 inc/vc-addons/feature-number.php:88
+#: inc/vc-addons/post-grid.php:129 inc/vc-addons/pricing-table.php:80
+#: inc/vc-addons/project.php:122 inc/vc-addons/section-title.php:70
+#: inc/vc-addons/service-grid.php:147 inc/vc-addons/team.php:106
+#: inc/vc-addons/testimonial.php:105
+msgid "Extra Class Name"
+msgstr ""
+
+#: inc/vc-addons/animated-number.php:83 inc/vc-addons/buttons.php:73
+#: inc/vc-addons/feature-box.php:109 inc/vc-addons/feature-number.php:90
+#: inc/vc-addons/post-grid.php:131 inc/vc-addons/pricing-table.php:82
+#: inc/vc-addons/project.php:124 inc/vc-addons/section-title.php:72
+#: inc/vc-addons/service-grid.php:149 inc/vc-addons/team.php:108
+#: inc/vc-addons/testimonial.php:107
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/vc-addons/buttons.php:4 inc/vc-addons/buttons.php:31
+msgid "Your button text"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:21
+msgid "Buttons"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:29
+msgid "Button Text"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:37
+msgid "URL"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:46 inc/vc-addons/buttons.php:55
+msgid "Default"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:48
+msgid "Success"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:49
+msgid "Info"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:50
+msgid "Warning"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:51
+msgid "Danger"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:52
+msgid "Link"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:54
+msgid "Button Type"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:62 inc/vc-addons/buttons.php:66
+msgid "Same Window"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:63
+msgid "New Window"
+msgstr ""
+
+#: inc/vc-addons/buttons.php:65
+msgid "Target"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:32
+msgid "Feature Box"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:48 inc/vc-addons/feature-number.php:58
+msgid "Feature Text"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:50 inc/vc-addons/feature-number.php:60
+msgid "Insert feature box text"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:93 inc/vc-addons/feature-number.php:74
+#: inc/vc-addons/section-title.php:56
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:94 inc/vc-addons/feature-number.php:75
+#: inc/vc-addons/section-title.php:57
+msgid "Select a heading tag from H1 to H6"
+msgstr ""
+
+#: inc/vc-addons/feature-box.php:102
+msgid "Feature box Alignment"
+msgstr ""
+
+#: inc/vc-addons/feature-number.php:35 inc/vc-addons/feature-number.php:43
+msgid "Feature Number"
+msgstr ""
+
+#: inc/vc-addons/feature-number.php:83
+msgid "Feature Style"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:50 inc/vc-addons/service-grid.php:60
+msgid "Learn more"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:69
+msgid "Post Grid"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:90
+msgid "Post Count"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:91 inc/vc-addons/service-grid.php:109
+#: inc/vc-addons/testimonial.php:82
+msgid "Select how many items you want to show"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:102 inc/vc-addons/project.php:116
+#: inc/vc-addons/service-grid.php:120
+msgid "Column"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:103 inc/vc-addons/service-grid.php:121
+msgid "Select Column"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:111
+msgid "Post Grid Alignment"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:116 inc/vc-addons/service-grid.php:134
+#: inc/vc-addons/testimonial.php:88
+msgid "Content Length"
+msgstr ""
+
+#: inc/vc-addons/post-grid.php:122 inc/vc-addons/service-grid.php:140
+msgid "Link icon"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:8 inc/vc-addons/pricing-table.php:71
+#: inc/vc-addons/pricing-table.php:73 inc/vc-addons/pricing-table.php:74
+msgid "Pricing List Text"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:24
+msgid "Purchase"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:35
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:43 inc/vc-addons/pricing-table.php:45
+msgid "Pricing Title"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:51
+msgid "Pricing Value"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:52
+msgid "199.99"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:58
+msgid "Button URL"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:60
+msgid "#"
+msgstr ""
+
+#: inc/vc-addons/pricing-table.php:65 inc/vc-addons/team.php:83
+msgid "Team Social"
+msgstr ""
+
+#: inc/vc-addons/project.php:27
+msgid "Show All"
+msgstr ""
+
+#: inc/vc-addons/project.php:82
+msgid "Project"
+msgstr ""
+
+#: inc/vc-addons/project.php:104
+msgid "Item Count"
+msgstr ""
+
+#: inc/vc-addons/section-title.php:23
+msgid "Section Title"
+msgstr ""
+
+#: inc/vc-addons/section-title.php:33
+msgid "Enter your section title here"
+msgstr ""
+
+#: inc/vc-addons/section-title.php:39
+msgid "Title Text Last Part"
+msgstr ""
+
+#: inc/vc-addons/section-title.php:41
+msgid "This text will add into section title with a span tag"
+msgstr ""
+
+#: inc/vc-addons/section-title.php:65
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/vc-addons/service-grid.php:79
+msgid "Service Grid"
+msgstr ""
+
+#: inc/vc-addons/service-grid.php:89
+msgid "Enter service type slug or leave it blank"
+msgstr ""
+
+#: inc/vc-addons/service-grid.php:108
+msgid "Service Count"
+msgstr ""
+
+#: inc/vc-addons/service-grid.php:129
+msgid "Service box Alignment"
+msgstr ""
+
+#: inc/vc-addons/team.php:46
+msgid "Team"
+msgstr ""
+
+#: inc/vc-addons/team.php:54
+msgid "Team Image"
+msgstr ""
+
+#: inc/vc-addons/team.php:60
+msgid "Name"
+msgstr ""
+
+#: inc/vc-addons/team.php:62
+msgid "Enter name here"
+msgstr ""
+
+#: inc/vc-addons/team.php:68
+msgid "Designation"
+msgstr ""
+
+#: inc/vc-addons/team.php:70
+msgid "Enter designation here"
+msgstr ""
+
+#: inc/vc-addons/team.php:75
+msgid "Description"
+msgstr ""
+
+#: inc/vc-addons/team.php:77
+msgid "Enter team description here"
+msgstr ""
+
+#: inc/vc-addons/team.php:89
+msgid "Select an icon"
+msgstr ""
+
+#: inc/vc-addons/team.php:98
+msgid "Social Link"
+msgstr ""
+
+#: inc/vc-addons/testimonial.php:60
+msgid "Testimonial"
+msgstr ""
+
+#: inc/vc-addons/testimonial.php:81
+msgid "Testimonial Count Count"
+msgstr ""
+
+#: inc/vc-addons/testimonial.php:99
+msgid "Show Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Builder Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ithemeslab.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin enables the core features to the Builder theme. You must have to "
+"install this plugin to work with the Builder WordPress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "iThemesLab"
+msgstr ""
