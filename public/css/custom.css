@@ -82,3 +82,10 @@
 .vc_custom_1489140493629 {
     padding-top: 10px !important;
 }
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
+img#wpstats {
+    display: none
+}
